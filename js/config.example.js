@@ -1,0 +1,5 @@
+export const CONFIG = {
+  SUPABASE_URL: "https://YOUR_PROJECT.supabase.co",
+  SUPABASE_ANON_KEY: "YOUR_PUBLISHABLE_OR_ANON_KEY",
+  APP_VERSION: "0.1.0"
+};
